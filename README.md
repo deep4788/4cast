@@ -15,7 +15,7 @@ Installation
 ------------
 - Go to [Dark Sky API](https://darksky.net/dev/) and sign up for free and get the API key
 - Go to libs/forecast.js and update the `url`; replace API_KEY with your key
-    `url: https://api.forecast.io/forecast/API_KEY/${lat},${lng}`
+    `url: https://api.forecast.io/forecast/API_KEY/${latitude},${longitude}`
 - Install Node.js and npm
 - Run `npm install -g 4cast`
 
